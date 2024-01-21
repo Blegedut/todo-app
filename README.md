@@ -1,5 +1,5 @@
 # Bagaimana cara menjalankannya?
-- Isntall PHP dan Mysql.
+- Install PHP dan Mysql.
 - buat tabel baru di database Mysql.
 - unduh repositori ini.
 - tambahkan database Anda di fungsi database.php => connectdatabase().
